@@ -9,7 +9,7 @@
 - `sqlite3` is typically used for development (not for production)
 - If we want to change default database in django...
 - We go to settings.py file and update DB engine
-- TODO refer - https://docs.djangoproject.com/en/4.1/ref/databases/#mysql-notes
+- TODO refer - g
 - 
 
 
